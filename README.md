@@ -9,7 +9,7 @@ We Implement Adafair Algorithm proposed by [(Iosifidis & Ntoutsi, 2019)](https:/
 and another algorithm, SMOTEBooste propsed by [(Chawla et al., 2003)](https://link.springer.com/chapter/10.1007/978-3-540-39804-2_12)
 # Results & Presentaion
 
-[Presentation Slide:](https://drive.google.com/file/d/1TEq2yTTuFmcczWBABVvvfzIa4GmM-R_R/view?usp=sharing)
+[Link For Presentation Slide](https://drive.google.com/file/d/1r2A46jfGtDvJcPXSSPWWJNx5mHH_iZ0S/view?usp=sharing)
 
 ![Adult](https://user-images.githubusercontent.com/98969542/159535195-86945fe5-abc7-4c04-a384-44a8e7703874.png)
 
