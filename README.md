@@ -10,3 +10,7 @@ and another algorithm, SMOTEBooste propsed by [(Chawla et al., 2003)](https://li
 # AdaFair
 Results
 ![Adult dataset](C:\Users\Lenovo\Downloads\drive-download-20220322T165435Z-001/Adult.png "Adult dataset")
+![Adult](https://user-images.githubusercontent.com/98969542/159535195-86945fe5-abc7-4c04-a384-44a8e7703874.png)
+![Bank](https://user-images.githubusercontent.com/98969542/159535215-9707154a-260a-4391-a3a4-d6e110955718.png)
+![Compas](https://user-images.githubusercontent.com/98969542/159535235-64a0f2a9-d7b9-4dbf-8c9a-700b2ac0ad5f.png)
+![KDD](https://user-images.githubusercontent.com/98969542/159535261-905588bb-ff75-4acb-8c7d-a7051943caa0.png)
