@@ -1,4 +1,9 @@
 # ML_Project2022_Group20
 ML Final Project, Boosting For Fairness-aware Classification, Skoltech 2022
 # Datasets
-Four datasets were used: [Adult Income Dataset](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5), Bank Marketing Dataset, COMPAS dataset, KDD Census income dataset. They are also available in this repository, in Adaptive Sensitive Reweighting folder, except for KDD dataset.
+Four datasets were used: [Adult Income Dataset](https://www.kaggle.com/datasets/uciml/adult-census-income), [Bank Dataset](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets?select=train.csv), [COMPAS dataset](https://raw.githubusercontent.com/propublica/compas-analysis/master/compas-scores-two-years.csv), [KDD Census income dataset](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)).
+# Requirement
+There are no any requirement for others installation.
+# Structure
+We Implement Adafair Algorithm proposed by [(Iosifidis & Ntoutsi, 2019)](https://arxiv.org/pdf/1909.08982.pdf)
+and another algorithm, SMOTEBooste propsed by [(Chawla et al., 2003)](https://link.springer.com/chapter/10.1007/978-3-540-39804-2_12)
