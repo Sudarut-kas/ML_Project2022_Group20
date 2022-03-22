@@ -30,3 +30,8 @@ Figure 3 shows that all approaches perform nearly identically in this dataset, w
 
 
 KDD dataset. As shown in Figure 4, AdaFair has the highest balance accuracy and TPR scores in this dataset, whereas AdaBoost and SMOTEBoost have better accuracy and TNR scores. In equalized odds, SMOTEBoost has the best score. According to the graph, both fairness-aware approaches can be utilized to achieve classification fairness, with AdaFair outperforming the others in TPR.
+
+# References
+ - ![Vasileios Iosidis and Eirini Ntoutsi. 2016. AdaFair: Cumulative Fairness Adaptive Boosting.](https://arxiv.org/pdf/1909.08982.pdf)
+ - ![Nitesh V Chawla, Aleksandar Lazarevic, Lawrence O Hall, and Kevin W Bowyer. 2003. SMOTEBoost: Improving prediction of the minority class in boosting.](https://link.springer.com/chapter/10.1007/978-3-540-39804-2_12)
+
